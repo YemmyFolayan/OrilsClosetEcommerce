@@ -87,7 +87,7 @@ body {
   subtract the height of navbar60px
   NB it takes 100% of the hero section minus height of navbar */
   min-height: calc(100vh - 60px);
-  background: url(".images/hero-bcg.jpeg") center/cover no-repeat;
+  background: url("./images/hero-bcg.jpeg") center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
